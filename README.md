@@ -1,6 +1,6 @@
 # playflow
 
-A new Flutter project.
+Projeto desenvolvido com o evento NLW6.
 
 ## Getting Started
 
